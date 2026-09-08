@@ -211,3 +211,4 @@ C:\Users\asus\Desktop\internship\UserProfileApp\obj\Debug\net10.0\refint\UserPro
 C:\Users\asus\Desktop\internship\UserProfileApp\obj\Debug\net10.0\UserProfileApp.pdb
 C:\Users\asus\Desktop\internship\UserProfileApp\obj\Debug\net10.0\UserProfileApp.genruntimeconfig.cache
 C:\Users\asus\Desktop\internship\UserProfileApp\obj\Debug\net10.0\ref\UserProfileApp.dll
+C:\Users\asus\Desktop\internship\UserProfileApp\obj\Debug\net10.0\UserProfileApp.sourcelink.json
